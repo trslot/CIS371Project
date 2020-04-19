@@ -1,0 +1,46 @@
+.godwin {
+    margin: 15px; 
+}
+
+
+label {
+    display: inline-block;
+    width: 120px;
+}
+
+button {
+
+    border-radius: 4px;
+}
+
+li {
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 5px;
+    display: inline-block;
+}
+
+a:link, a:visited {
+    background-color: #D31C27;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    
+  }
+  
+  a:hover, a:active {
+    background-color: #636363;
+  }
+
+.login .errorMessage {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: #D31C27;
+}

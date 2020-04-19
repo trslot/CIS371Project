@@ -1,0 +1,20 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "${workspaceFolder}\\customers.sqlite",
+            "dialect": "SQLite",
+            "name": "Customers"
+        },
+        {
+            "database": "${workspaceFolder}\\parts.sqlite",
+            "dialect": "SQLite",
+            "name": "Parts"
+        },
+        {
+            "database": "${workspaceFolder}\\workOrders.sqlite",
+            "dialect": "SQLite",
+            "name": "WorkOrders"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
